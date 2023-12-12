@@ -23,7 +23,7 @@ This web application takes the user's birthday and calculates the day of the wee
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/akan-name-calculator.git
+    git clone https://github.com/nshibanda/akan-name-calculator.git
     ```
 
 2. Navigate to the project directory:
