@@ -12,6 +12,4 @@ The user's date of birth is used to calculate an index value, which is then used
 - CSS (Bootstrap)
 - JavaScript
 ## Live link
-https://bkkimutai.github.io/weektwoip
-## License
-(c) 2023 nshibanda
+https://nshibanda.github.io/week-2
